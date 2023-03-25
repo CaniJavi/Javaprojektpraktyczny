@@ -1,0 +1,4 @@
+Poland;PL;PLN;
+France;FR;EUR;
+Germany;DE;EUR;
+United States;US;USD;
